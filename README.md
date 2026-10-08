@@ -1,6 +1,6 @@
 \# ConsoleCalculator
 
-Консольный калькулятор на Qt (сигналыслоты, QObject, MOC) с юнит-тестами (QTest, QSignalSpy). Вариант 4.
+Консольный калькулятор на Qt (сигналыслоты, QObject, MOC) с юнит-тестами (QTest, QSignalSpy). Вариант #4.
 
 
 
