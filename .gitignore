@@ -1,0 +1,9 @@
+build/
+debug/
+release/
+*.user
+*.o
+moc_*
+*.exe
+Makefile*
+history.txt
